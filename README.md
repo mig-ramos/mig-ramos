@@ -1,6 +1,6 @@
 ### Olá! Sou o Miguel Arcanjo
 
-- 🔭 Hoje trabalho com API-REST e Mobile Flutter
+- 🔭 Hoje trabalho com API-REST (Java) e Mobile (Flutter)
 - 🌱 Estudando React e PHP
 - 💬 Formação: Sistemas para Internet
 - 📫 Contate-me no email: mig.ramos10@gmail.com
