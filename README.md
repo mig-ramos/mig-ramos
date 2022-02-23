@@ -1,7 +1,7 @@
 ### Olá! Sou o Miguel Arcanjo
 
-- 🔭 Hoje trabalho com API-REST (Java) e Mobile (Flutter)
-- 🌱 Estudando React e PHP
+- 🔭 Hoje trabalho com API-REST (Java)
+- 🌱 Estudando Angular e PHP
 - 💬 Formação: Sistemas para Internet
 - 📫 Contate-me no email: mig.ramos10@gmail.com
 - 😄 Pronomes: ele/dele
