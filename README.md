@@ -1,6 +1,6 @@
 ### Olá! Sou o Miguel Arcanjo
 
-- 🔭 Hoje trabalho com API-REST (Java)
+- 🔭 TCC: API-REST (Java) com APP Mobile (Flutter)
 - 🌱 Estudando Angular e PHP
 - 💬 Formação: Sistemas para Internet
 - 📫 Contate-me no email: mig.ramos10@gmail.com
