@@ -1,7 +1,7 @@
 ### Olá! Sou o Miguel Arcanjo
 
 - 🔭 TCC: API-REST (Java) com APP Mobile (Flutter)
-- 🌱 Estudando Angular e PHP
+- 🌱 Estudando Angular, React e PHP
 - 💬 Formação: Sistemas para Internet
 - 📫 Contate-me no email: mig.ramos10@gmail.com
 - 😄 Pronomes: ele/dele
