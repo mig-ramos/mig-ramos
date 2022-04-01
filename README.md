@@ -4,7 +4,6 @@
 - 🌱 Estudando Angular, React e PHP
 - 💬 Formação: Sistemas para Internet
 - 📫 Contate-me no email: mig.ramos10@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/mig-ramos">
