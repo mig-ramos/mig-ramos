@@ -2,7 +2,7 @@
 
 - 🔭 TCC: API-REST (Java) com APP Mobile (Flutter)
 - 🌱 Estudando React e PHP
-- 💬 Formação: Sistemas para Internet
+- 💬 Formação: Tecnologias em Sistemas para Internet
 - 📫 Contate-me no email: mig.ramos10@gmail.com
 
 <div>
