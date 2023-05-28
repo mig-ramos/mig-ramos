@@ -1,7 +1,7 @@
 ### Olá! Sou o Miguel Arcanjo
 
 - 🔭 TCC: API-REST (Java) com APP Mobile (Flutter)
-- 🌱 Estudando React e PHP
+- 🌱 Estudando React
 - 💬 Formação: Tecnologias em Sistemas para Internet
 - 📫 Contate-me no email: mig.ramos10@gmail.com
 
@@ -16,9 +16,7 @@
     <img align="center" alt="Miguel-Js" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Miguel-Ts" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Miguel-Java" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Miguel-Java" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    <img align="center" alt="Miguel-React" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Miguel-PHP" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">    
+    <img align="center" alt="Miguel-React" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   </div>
   
  ##
