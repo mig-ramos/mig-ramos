@@ -1,7 +1,6 @@
 ### Olá! Aqui é o Miguel Arcanjo
 
-- 🔭 TCC: API-REST (Java) com APP Mobile (Flutter)
-- 🌱 Dominando Next com React
+- 🌱 Dominando Nest & Next com React
 - 💬 Formação: Tecnologias em Sistemas para Internet
 - 📫 Contate-me no email: mig.ramos10@gmail.com
 
